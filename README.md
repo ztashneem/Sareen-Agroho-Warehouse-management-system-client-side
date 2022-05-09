@@ -1,12 +1,48 @@
-# Getting Started with Create React App
+# Welcome to Sareen Fashion 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ WareHouse Live App  [Sareen](https://sareen-agroho.web.app/).
 
-## Available Scripts
+## Overused marketing phrases
+### Featured 
+              1. FEP  Sareen Fashion OF THE YEAR 2020 - Wedding Golden 
 
-In the project directory, you can run:
+                  1. With a passion for / We are passionate about / We believe 
+                    2. Make your dreams a reality / Bring your vision to life / Dream wedding 
+                   3. Go the extra mile / Go above and beyond / Take it to the next level 
+                   4.Perfect day / Special day / Best day of your life / Best day ever / Once-in-a-lifetime
+                    5.Happy / wounderful /decurated family
 
-### `npm start`
+  ### Mordena is a dream changer 
+  **Sareen Fashion is considered to be the ‘game-changer’ in Bangladesh’s Fashion industry. Carefully-chosen raw material, environment-friendly business practice and customer-centric approach is what made  Sareen Fashion a beloved brand at home and abroad.**  
+
+
+## Use Tools 
+
+Tools | Assists | Meterials
+| :--- | ---: | :---:
+ Mongodb | Node Js | Express Js
+ Hero kuu | JWT | dotenv
+ React Authentication |  Tailwind |  React firebase hooks
+ React Hooks Form | React Halmate | React hot toast
+ React Icons | React Router | Components
+React Hot Toast   | React Dom | RequireAuth
+Vs Code  | Firebase| Google Authentication 
+ ## So what should I do instead?
+* The Essentials
+              * Is this submission addressed to me or my publication?
+                  * Has this shoot been submitted or published elsewhere
+          * The  Sareen Fashion
+          * Have the Sareen Fashion  been edited in a consistent style for seamless flow?
+
+* Have enough   Fashion  been supplied to tell a compelling story?
+Fashion  and make a selection?
+
+*  Does this  Sareen Fashion  feature images that will resonate with our followers on Instagram and Facebook?
+
+*  Does this shoot feature portrait images of details that will appeal on Pinterest?
+
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
