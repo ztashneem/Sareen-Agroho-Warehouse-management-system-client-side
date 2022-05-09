@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import auth from '../../../firebase.init';
-
+ 
 const AddItem = () => {
     const [user, loading, error] = useAuthState(auth);
     const handleAddItems = async e => {
