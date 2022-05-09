@@ -11,7 +11,7 @@ const ManageItems = () => {
         console.log('object', id);
         const proceed = window.confirm("Are You Sure Want To Delate!!")
         if (proceed) {
- 
+
             const url = `https://hidden-crag-72651.herokuapp.com/delete/${id}`
             fetch(url, {
                 method: 'DELETE'

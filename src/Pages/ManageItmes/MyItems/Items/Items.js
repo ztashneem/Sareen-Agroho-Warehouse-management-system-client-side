@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Items = ({ item }) => {
-  
+
     const { name, price, img, quantity } = item
     return (
         <div className="max-w-sm mx-auto mb-10 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
